@@ -1,2 +1,2 @@
 # InsertionSort
-Insertion Sort, Merge Sort and Algortihm Analysis
+Insertion Sort and Algortihm Analysis
